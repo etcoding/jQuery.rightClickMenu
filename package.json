@@ -4,7 +4,7 @@
     "title": "rightClickMenu",
     "author": {
         "name": "Evgeni Tsarovski",
-        "url": "https://github.com/jeresig"
+        "url": "http://www.etcoding.com"
     },
     "licenses": [
         {
@@ -25,7 +25,7 @@
     "maintainers": [
         {
             "name": "Evgeni Tarovski",
-            "url": "http://etcoding.com"
+            "url": "http://www.etcoding.com"
         }
     ],
     "files": [
