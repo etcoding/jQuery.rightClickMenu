@@ -10,11 +10,12 @@ Usage:
 
 Say you have a div where you want your context menu to appear: 
 
-`
+```
 <div id="myText">
      Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 </div>
-`
+```
+
 Specify an array of objects defining menu element names and an on-click action for each:
 
 ```javascript
