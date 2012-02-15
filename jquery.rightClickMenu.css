@@ -1,0 +1,33 @@
+﻿div.rightClickMenu
+{
+    background-color: #f3f1ef;
+    -moz-box-shadow: 3px 3px 5px #585757;
+    -webkit-box-shadow: 3px 3px 5px #585757;
+    box-shadow: 3px 3px 5px #585757;
+    font-size: 14px;
+    border: 1px solid #9f9c9c;
+}
+
+div.rightClickMenu ul
+{
+    cursor: default;
+    padding: 0px;
+    margin: 1px 0 1px 0;
+}
+
+div.rightClickMenu li
+{
+    list-style-type: none;
+    padding: 2px;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    border: solid 1px #f3f1ef;
+}
+
+div.rightClickMenu li:hover
+{
+    background-color: #EBF4FC;
+    border: solid 1px #A9D0F5;
+    padding: 2px;
+}
