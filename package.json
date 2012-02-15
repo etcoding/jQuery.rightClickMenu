@@ -1,0 +1,35 @@
+{
+    "name": "rightClickMenu",
+    "version": "1.0.2",
+    "title": "rightClickMenu",
+    "author": {
+        "name": "Evgeni Tsarovski",
+        "url": "https://github.com/jeresig"
+    },
+    "licenses": [
+        {
+            "type": "BSD",
+            "url": "http://www.opensource.org/licenses/BSD-3-Clause"
+        }
+    ],
+    "dependencies": {
+        "jquery": ">1.6"
+    },
+    "description": "This plugin creates a right-click (context) menu attached to a page element.",
+    "keywords": [
+        "right-click menu",
+        "context menu"
+    ],
+	"demo": "http://etcoding.com/page/RightClickMenu-jQuery-plugin.aspx",
+    "homepage": "http://etcoding.com/page/RightClickMenu-jQuery-plugin.aspx",
+    "maintainers": [
+        {
+            "name": "Evgeni Tarovski",
+            "url": "http://etcoding.com"
+        }
+    ],
+    "files": [
+       "jquery.rightClickMenu-1.0.2.js",
+	   "jquery.rightClickMenu.css"
+    ]
+}
