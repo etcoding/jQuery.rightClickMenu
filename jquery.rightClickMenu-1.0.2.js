@@ -10,7 +10,7 @@
 Generates a right-click menu.
 Function takes a parameter, which is an array of objects with following properties:
 name: text that will be displayed on menu
-func: user-defined function, that will be executed when user clicks on the menu item. A jQuery's "$this" element will be passed as a function parameter.
+action: user-defined function, that will be executed when user clicks on the menu item. A jQuery's "$this" element will be passed as a function parameter.
 
 Usage:
 var menu = [
