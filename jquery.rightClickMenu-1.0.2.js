@@ -3,7 +3,6 @@
 *
 * Copyright (c) 2011 Evgeni Tsarovski
 * http://www.etcoding.com
-* Licensed under the GPL license.
 *
 *
 
